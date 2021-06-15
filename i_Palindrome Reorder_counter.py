@@ -1,6 +1,5 @@
 
-# NOTE: good to know that we can use * to break down a list
-# or we can create the Counter by ourself.
+# NOTE: good to know that we can use Counter or we can create the Counter by ourself.
 # s = input()
 # [(i, s.count(i)) for i in set(s)]
 
